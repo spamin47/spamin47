@@ -6,9 +6,10 @@ I'm a programmer enthusiast currently attending San Jose State University. I'm o
 Machine Learning: TensorFlow, Scikit-Learn
 Languages: Python, C++, Java, C, Lua
 Misc: Game Development (Unity, Roblox Studio)
+
 🌱 I'm currently learning
 - Machine learning
-- compiler design
+- compiler design\n
 🕹️ Hobbies
 Video Gaming 🎮
 
