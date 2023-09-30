@@ -16,13 +16,17 @@ Misc: Game Development (Unity, Roblox Studio)
 - Video Gaming 🎮
 
 Hiking 👨‍🦯
+
 Exploring the wonders of nature helps me relax and it's also very nice to be outside.
 
 Rock Climbing 🧗‍♂️
+
 Climbing helps me practice problem-solving in a physical dimension.
 
 🎓 Academic Goals
+
 Working diligently to maintain my grades and furthering my skills in programming.
 
 🌐 Social Media
+
 https://www.linkedin.com/in/minh-nguyen-computer-scientist/
