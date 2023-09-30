@@ -10,8 +10,8 @@ Misc: Game Development (Unity, Roblox Studio)
 🌱 I'm currently learning
 - Machine learning
 - compiler design
-🕹️ Hobbies
-Video Gaming 🎮
+- 🕹️ Hobbies
+- Video Gaming 🎮
 
 Hiking 👨‍🦯
 Exploring the wonders of nature helps me relax and it's also very nice to be outside.
