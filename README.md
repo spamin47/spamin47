@@ -13,7 +13,7 @@ Misc: Game Development (Unity, Roblox Studio)
 
 ### 🌱 I'm currently learning
 - Machine learning
-- compiler design
+- Compiler design
 
 ### 🕹️ Hobbies
 - Video Gaming 🎮
