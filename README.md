@@ -6,14 +6,13 @@ I'm a programmer enthusiast currently working at Amazon. I like learning new ide
 
 Machine Learning: TensorFlow, Scikit-Learn
 
-Languages: Python, C, Java, C++, Lua
+Languages: Python, C, Java, C++, Lua, Javascript, html/css, bash
 
 Misc: Game Development (Unity, Roblox Studio)
 
 
 ### 🌱 I'm currently learning
-- Machine learning
-- Compiler design
+- fullstack design and implementation
 
 ### 🕹️ Hobbies
 - Video Gaming 🎮
@@ -22,6 +21,6 @@ Exploring the wonders of nature helps me relax and it's also very nice to be out
 - Rock Climbing 🧗‍♂️:
 Climbing helps me practice problem-solving in a physical dimension.
 🎓 Academic Goals
-- Working diligently to maintain my grades and furthering my skills in programming.
+- STUDY STUDY STUDY
 🌐 Social Media
 - [LinkedIn](https://www.linkedin.com/in/minh-nguyen-computer-scientist/)
