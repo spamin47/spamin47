@@ -1,6 +1,6 @@
 ### 👋 Hey there, I'm Minh!
 ### 🤖 About Me
-I'm a programmer enthusiast currently attending San Jose State University. I'm on the path of studying computer science. I learning new ideas, and am always eager to interact with people from various backgrounds, despite the potential for a language barrier.
+I'm a programmer enthusiast currently working at Amazon. I like learning new ideas, tools, and ways to boost my creativity! I am always eager to interact with people from various backgrounds, despite the potential for a language barrier.
 
 ### 🧠 Skills
 
